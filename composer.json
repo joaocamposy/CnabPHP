@@ -1,5 +1,5 @@
 {
-    "name": "andersondanilo/cnab_php",
+    "name": "joaocamposy/cnab_php",
     "type": "library",
     "description": "Projeto para criar arquivos de remessas e processar arquivos de retorno no formato CNAB",
     "keywords": ["boleto", "remessa", "retorno"],
@@ -26,7 +26,7 @@
         "codeclimate/php-test-reporter": "dev-master"
     },
     "require": {
-        "andersondanilo/cnab_yaml": "dev-master",
+        "joaocamposy/cnab_yaml": "dev-master",
         "php": ">=5.4.0",
         "mustangostang/spyc": "0.5.*"
     },
